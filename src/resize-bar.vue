@@ -15,7 +15,7 @@
     width:200px;
     margin-left: -100px;
     left: 50%;
-    background-color: #a8f9ca;
+    background-color: #caadeb;
     box-shadow: 0 2px 3px -1px rgba(0,0,0,.3);
   }
   .g-resize-highlight{
@@ -23,7 +23,7 @@
     left: 0;
     top:0;
     height: 6px;
-    background-color: #27ae60;
+    background-color: #764fa2;
     border-radius: 3px;
   }
   .circle-btn{

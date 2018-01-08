@@ -22,8 +22,8 @@ export default {
     type: Object,
     default: function() {
       return {
-        ok: 'Ok',
-        cancel: 'Cancel',
+        ok: '完成',
+        cancel: '取消',
       }
     }
   },
@@ -43,8 +43,8 @@ export default {
     type: Object,
     default: function() {
       return {
-        ok: 'Ok',
-        cancel: 'Cancel'
+        ok: '完成',
+        cancel: '取消'
       }
     }
   },
